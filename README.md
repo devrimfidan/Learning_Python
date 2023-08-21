@@ -45,6 +45,6 @@ Keep track of your progress here. You can update this section as you complete tu
 
 ## Contact
 
-Feel free to reach out if you have any questions, suggestions, or just want to connect. You can find me on [Twitter](https://twitter.com/yourusername) and [LinkedIn](https://linkedin.com/in/yourusername).
+Feel free to reach out if you have any questions, suggestions, or just want to connect. You can find me on [Twitter](https://twitter.com/emindevrimfidan) and [LinkedIn](https://linkedin.com/in/emindevrimfidan).
 
 Happy coding!
