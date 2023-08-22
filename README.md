@@ -31,7 +31,7 @@ List the resources you're using to learn Python. These could include online tuto
 
  :calendar: - [Learn Python tracks](https://hyperskill.org/categories/1) Start your journey in development with Python by gaining a foundational understanding of the language's basics and main concepts.
 
-- [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3): An interactive online course for learning Python.
+:closed_lock_with_key: - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3): An interactive online course for learning Python.
 
 - [Real Python](https://realpython.com/): A website with a variety of Python tutorials and articles.
 
@@ -47,29 +47,29 @@ List the resources you're using to learn Python. These could include online tuto
 
  :calendar: - [Harvard University: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
 
-- [Harvard University: Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) Learn the concepts and techniques that make up the foundation of data science and machine learning.
+:closed_lock_with_key: - [Harvard University: Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) Learn the concepts and techniques that make up the foundation of data science and machine learning.
 
-- [IBM: Python Basics for Data Science](https://www.edx.org/learn/python/ibm-python-basics-for-data-science) This Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!
+:closed_lock_with_key: - [IBM: Python Basics for Data Science](https://www.edx.org/learn/python/ibm-python-basics-for-data-science) This Python course provides a beginner-friendly introduction to Python for Data Science. Practice through lab exercises, and you'll be ready to create your first Python scripts on your own!
 
 ### Coursera
 
-- [Programming in Python - META](https://www.coursera.org/learn/programming-in-python) META - In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. 
+:closed_lock_with_key: - [Programming in Python - META](https://www.coursera.org/learn/programming-in-python) META - In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. 
 
-- [Crash Course on Python - GOOGLE](https://www.coursera.org/learn/python-crash-course) This course is designed to teach you the foundations in order to write simple programs in Python using the most common structures. No previous exposure to programming is needed. By the end of this course, you'll understand the benefits of programming in IT roles; be able to write simple programs using Python; figure out how the building blocks of programming fit together; and combine all of this knowledge to solve a complex programming problem. 
+:closed_lock_with_key: - [Crash Course on Python - GOOGLE](https://www.coursera.org/learn/python-crash-course) This course is designed to teach you the foundations in order to write simple programs in Python using the most common structures. No previous exposure to programming is needed. By the end of this course, you'll understand the benefits of programming in IT roles; be able to write simple programs using Python; figure out how the building blocks of programming fit together; and combine all of this knowledge to solve a complex programming problem. 
 
-- [Get Started with Python - GOOGLE](https://www.coursera.org/learn/get-started-with-python)  This is the second of seven courses in the Google Advanced Data Analytics Certificate. The Python programming language is a powerful tool for data analysis. In this course, you’ll learn the basic concepts of Python programming and how data professionals use Python on the job. You'll explore concepts such as object-oriented programming, variables, data types, functions, conditional statements, loops, and data structures. 
+:closed_lock_with_key: - [Get Started with Python - GOOGLE](https://www.coursera.org/learn/get-started-with-python)  This is the second of seven courses in the Google Advanced Data Analytics Certificate. The Python programming language is a powerful tool for data analysis. In this course, you’ll learn the basic concepts of Python programming and how data professionals use Python on the job. You'll explore concepts such as object-oriented programming, variables, data types, functions, conditional statements, loops, and data structures. 
 
 ### Linkedin Learning
 
-- [Python for Non-Programmers](https://www.linkedin.com/learning/python-for-non-programmers) In this course, Nick teaches the fundamentals of Python to you: a non-programmer, a user with little to no coding experience. Learn more about what Python is, and what it is and isn’t used for. Explore how Python works with numbers and how you can interact with simple programs such as a simple number-guessing game. 
+:hourglass_flowing_sand: - [Python for Non-Programmers](https://www.linkedin.com/learning/python-for-non-programmers) In this course, Nick teaches the fundamentals of Python to you: a non-programmer, a user with little to no coding experience. Learn more about what Python is, and what it is and isn’t used for. Explore how Python works with numbers and how you can interact with simple programs such as a simple number-guessing game. 
 
-- [Learning Python](https://www.linkedin.com/learning/learning-python-14393370) Whether you're new to programming or an experienced developer, this course can help you get started with Python. Joe Marini provides an overview of the installation process, basic Python syntax, and an example of how to construct and run a simple Python program. Learn to work with dates and times, read and write files, and retrieve and parse HTML, JSON, and XML data from the web.
+:hourglass_flowing_sand: - [Learning Python](https://www.linkedin.com/learning/learning-python-14393370) Whether you're new to programming or an experienced developer, this course can help you get started with Python. Joe Marini provides an overview of the installation process, basic Python syntax, and an example of how to construct and run a simple Python program. Learn to work with dates and times, read and write files, and retrieve and parse HTML, JSON, and XML data from the web.
 
-- [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-18764650) In this course, senior software engineer Ryan Mitchell guides you through all the essentials of learning and using Python. Learn how computers think, as well as how to install Python, pip, and Jupyter Notebook and the basics of writing a program. 
+:hourglass_flowing_sand: - [Python Essential Training](https://www.linkedin.com/learning/python-essential-training-18764650) In this course, senior software engineer Ryan Mitchell guides you through all the essentials of learning and using Python. Learn how computers think, as well as how to install Python, pip, and Jupyter Notebook and the basics of writing a program. 
 
-- [Getting Started with Python](https://www.linkedin.com/learning/paths/getting-started-with-python) Python is one of the most in-demand programming languages. Whether you're a new programmer looking to switch careers or an experienced coder looking to expand your fit within a challenging job market, this path will provide you with the foundational skills for coding in Python.
+:hourglass_flowing_sand: - [Getting Started with Python](https://www.linkedin.com/learning/paths/getting-started-with-python) Python is one of the most in-demand programming languages. Whether you're a new programmer looking to switch careers or an experienced coder looking to expand your fit within a challenging job market, this path will provide you with the foundational skills for coding in Python.
 
-- [Advance Your Skills in Python](https://www.linkedin.com/learning/paths/advance-your-skills-in-python-8969631) Now that you've learned the basics of Python programming, it's time to dive into the next steps to prepare for a career as a Python developer. This learning path takes you through the practical need of programmers, such as learning about design patterns, testing, and even interview preparation.
+:hourglass_flowing_sand: - [Advance Your Skills in Python](https://www.linkedin.com/learning/paths/advance-your-skills-in-python-8969631) Now that you've learned the basics of Python programming, it's time to dive into the next steps to prepare for a career as a Python developer. This learning path takes you through the practical need of programmers, such as learning about design patterns, testing, and even interview preparation.
 
 
 
