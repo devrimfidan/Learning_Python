@@ -25,11 +25,11 @@ List the resources you're using to learn Python. These could include online tuto
 
 
 
-- [Python Official Documentation](https://docs.python.org/): The official Python documentation is a comprehensive resource for learning the language.
+:pill: - [Python Official Documentation](https://docs.python.org/): The official Python documentation is a comprehensive resource for learning the language.
 
-- [Python Developer](https://roadmap.sh/python) Step by step guide to becoming a Python developer in 2023
+:rocket: - [Python Developer](https://roadmap.sh/python) Step by step guide to becoming a Python developer in 2023
 
-- [Learn Python tracks](https://hyperskill.org/categories/1) Start your journey in development with Python by gaining a foundational understanding of the language's basics and main concepts.
+ :calendar: - [Learn Python tracks](https://hyperskill.org/categories/1) Start your journey in development with Python by gaining a foundational understanding of the language's basics and main concepts.
 
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3): An interactive online course for learning Python.
 
@@ -39,13 +39,13 @@ List the resources you're using to learn Python. These could include online tuto
 
 ### Udemy
 
-- [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp) Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games
+ :calendar: - [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
 
-- [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code/) Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
+- [The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp) Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games
 
 ### edX
 
-- [Harvard University: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
+ :calendar: - [Harvard University: CS50's Introduction to Programming with Python](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python) An introduction to programming using Python, a popular language for general-purpose programming, data science, web programming, and more.
 
 - [Harvard University: Introduction to Data Science with Python](https://www.edx.org/learn/data-science/harvard-university-introduction-to-data-science-with-python) Learn the concepts and techniques that make up the foundation of data science and machine learning.
 
