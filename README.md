@@ -53,6 +53,8 @@ List the resources you're using to learn Python. These could include online tuto
 
 ### Coursera
 
+:closed_lock_with_key: - [Python for Everybody Specialization](https://www.coursera.org/specializations/python)  Begin your journey into the world of programming with this beginner-level program, which offers comprehensive knowledge about Python, data structures, APIs, databases, data retrieval, and visualization. Develop your own data-driven applications as you learn from experts at the prestigious University of Michigan. 
+
 :closed_lock_with_key: - [Programming in Python - META](https://www.coursera.org/learn/programming-in-python) META - In this course, you will be introduced to foundational programming skills with basic Python Syntax. You’ll learn how to use code to solve problems. You’ll dive deep into the Python ecosystem and learn popular modules, libraries and tools for Python. 
 
 :closed_lock_with_key: - [Crash Course on Python - GOOGLE](https://www.coursera.org/learn/python-crash-course) This course is designed to teach you the foundations in order to write simple programs in Python using the most common structures. No previous exposure to programming is needed. By the end of this course, you'll understand the benefits of programming in IT roles; be able to write simple programs using Python; figure out how the building blocks of programming fit together; and combine all of this knowledge to solve a complex programming problem. 
