@@ -9,3 +9,5 @@ if answer == 1:
 print("I will commit this via PyCharm!")
 
 print("Why?")
+
+print(1)
